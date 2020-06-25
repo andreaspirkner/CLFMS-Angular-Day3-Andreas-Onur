@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACA,OAAO,EAAE,IAAI;;AAMjB,IAAI;EACA,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,aAAa;EAK9B,MAAM,EAAE,UAAU;EAGlB,UAAU,EAAE,8BAA8B;;AAE9C,KAAK;EACD,MAAM,EAAE,mBAAmB;;AAE/B,gBAAgB;EACZ,KAAK,EAAE,KAAK;EACZ,KAAK,EAAE,KAAK;EACZ,gBAAgB,EAAE,GAAG",
+"sources": ["product-list.component.sass"],
+"names": [],
+"file": "product-list.component.css"
+}

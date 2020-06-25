@@ -1,37 +1,37 @@
 export const products = [
  {
-   picture: '../assets/img/food3.jpg',
-   name: 'Catfood 1',
+   picture: '../assets/img/food1.jpg',
+   name: 'Ageing Sterilised',
    price: 7.99,
    description: 'Superfood your cat will love'
  },
  {
-   picture: 'assets/img/food3.jpg',
-   name: 'Catfood 2',
+   picture: 'assets/img/food2.jpg',
+   name: 'Regular Sterilised',
    price: 6.99,
    description: 'Superfood your cat will love'
  },
  {
    picture: 'assets/img/food3.jpg',
-   name: 'Catfood 3',
+   name: 'Regular Sensible',
    price: 9.99,
    description: 'Superfood your cat will love'
  },
  {
-   picture: '/assets/img/food3.jpg',
-   name: 'Catfood 4',
+   picture: '/assets/img/food4.jpg',
+   name: 'British Shorthair',
    price: 8.99,
    description: 'Superfood your cat will love'
  },
  {
-   picture: '/assets/img/food3.jpg',
-   name: 'Catfood 5',
+   picture: '/assets/img/food5.jpg',
+   name: 'Hair & Skin',
    price: 6.99,
    description: 'Superfood your cat will love'
  },
  {
-   picture: 'assets/img/food3.jpg',
-   name: 'Catfood 6',
+   picture: 'assets/img/food6.jpg',
+   name: 'Mother & Babycat',
    price: 5.99,
    description: 'Superfood your cat will love'
  }
